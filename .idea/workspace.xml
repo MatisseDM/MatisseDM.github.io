@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb9ece3-5fb2-4bb0-b05a-201074abde75" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/OefPagina/Labo 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/OefPagina/Labo 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OefPagina/Labo 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OefPagina/Labo 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OefPagina/Labo 5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <workItem from="1666783275873" duration="275000" />
       <workItem from="1666862330935" duration="4949000" />
       <workItem from="1666869032514" duration="2269000" />
-      <workItem from="1666945344009" duration="1349000" />
+      <workItem from="1666945344009" duration="1657000" />
     </task>
     <servers />
   </component>
