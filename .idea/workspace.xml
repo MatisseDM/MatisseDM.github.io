@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fb9ece3-5fb2-4bb0-b05a-201074abde75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 6/HTML met CSS/CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/HTML met CSS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Hyperlinks/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Hyperlinks/style.css" afterDir="false" />
+    <list default="true" id="2fb9ece3-5fb2-4bb0-b05a-201074abde75" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/Labo 6/Checklist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6/Checklist/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Kalender/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Kalender/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,8 +75,16 @@
       <workItem from="1666862330935" duration="4949000" />
       <workItem from="1666869032514" duration="2269000" />
       <workItem from="1666945344009" duration="3130000" />
-      <workItem from="1669204996259" duration="303000" />
+      <workItem from="1669204996259" duration="943000" />
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1669205444294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669205444294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +102,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
