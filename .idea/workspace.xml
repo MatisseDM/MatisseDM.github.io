@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fb9ece3-5fb2-4bb0-b05a-201074abde75" name="Changes" comment="" />
+    <list default="true" id="2fb9ece3-5fb2-4bb0-b05a-201074abde75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo 6/HTML met CSS/CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6/HTML met CSS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6/Hyperlinks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6/Hyperlinks/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -69,6 +74,7 @@
       <workItem from="1666862330935" duration="4949000" />
       <workItem from="1666869032514" duration="2269000" />
       <workItem from="1666945344009" duration="3130000" />
+      <workItem from="1669204996259" duration="303000" />
     </task>
     <servers />
   </component>
